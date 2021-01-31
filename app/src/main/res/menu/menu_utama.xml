@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/account"
+    android:title="account"
+    android:icon="@drawable/director"/>
+
+    <item android:id="@+id/film"
+        android:title="Film"
+        android:icon="@drawable/reel"/>
+
+</menu>
